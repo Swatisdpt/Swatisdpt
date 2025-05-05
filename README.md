@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm a PhD student in Structural Biology, and I'm looking to collaborate on structural biology based projects :)
+I'm a PhD candidate in Structural Biology, interested to transition to computational biology, and I'm looking to collaborate on different projects to strengthen my computational skills and contribute to biology research :)
 <!--
 **Swatisdpt/Swatisdpt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
