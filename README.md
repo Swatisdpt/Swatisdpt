@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm a researcher in Structural Biology, interested to transition to bioinformatics and computational biology, and I'm looking to collaborate on different projects to strengthen my computational skills and contribute to biology research :)
+I'm a research enthusiast in Protein Biology, with experience in related wet lab skills like recombinant DNA cloning(successful cloning of 9kb long insert), protein expression in bacterial and yeast expression system, protein purification(IMAC, IEX, GF), structural analysis in CryoEM(CryoSPARC, RELION). I am now delving into ML methods in protein biology, and interested in related projects to strengthen my computational skills and contribute to biology research :)
 <!--
 **Swatisdpt/Swatisdpt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
